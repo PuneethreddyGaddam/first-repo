@@ -1,3 +1,4 @@
 # first-repo
 
-just a basic repo 
+Name: puneethreddy 
+Favorite Actor: Brad pitt
